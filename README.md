@@ -37,7 +37,7 @@ Desenvolvo soluções que vão da **análise estatística preditiva** ao **proce
 <img src="https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python&logoColor=c9a227"/>
 <img src="https://img.shields.io/badge/Pandas-2c5364?style=for-the-badge&logo=pandas&logoColor=00d4aa"/>
 <img src="https://img.shields.io/badge/NumPy-0f2027?style=for-the-badge&logo=numpy&logoColor=c9a227"/>
-<img src="https://img.shields.io/badge/SQL-2c5364?style=for-the-badge&logo=postgresql&logoColor=00d4aa"/>
+<!-- <img src="https://img.shields.io/badge/SQL-2c5364?style=for-the-badge&logo=postgresql&logoColor=00d4aa"/> -->
 </p>
 
 ---
@@ -61,7 +61,7 @@ Desenvolvo soluções que vão da **análise estatística preditiva** ao **proce
 <img src="https://img.shields.io/badge/Git-0f2027?style=for-the-badge&logo=git&logoColor=c9a227"/>
 <img src="https://img.shields.io/badge/Linux-2c5364?style=for-the-badge&logo=linux&logoColor=00d4aa"/>
 <img src="https://img.shields.io/badge/Jupyter-0f2027?style=for-the-badge&logo=jupyter&logoColor=c9a227"/>
-<img src="https://img.shields.io/badge/Docker-2c5364?style=for-the-badge&logo=docker&logoColor=00d4aa"/>
+<!-- <img src="https://img.shields.io/badge/Docker-2c5364?style=for-the-badge&logo=docker&logoColor=00d4aa"/> -->
 </p>
 
 ---
