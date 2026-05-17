@@ -67,6 +67,14 @@ Desenvolvo soluções que vão da **análise estatística preditiva** ao **proce
 ---
 
 # GitHub Analytics
+<!-- <div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-CS&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-CS&layout=compact&theme=tokyonight"/>
+
+</div> -->
+
 ---
 
 <div align="center">
