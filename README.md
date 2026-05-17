@@ -13,23 +13,23 @@ Gosto de transformar dados em **informação útil para tomada de decisão**.
 
 <div style="display: inline_block"><br>
 
-<img align="center" alt="Python" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-
-<img align="center" alt="Pandas" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-
-<img align="center" alt="Numpy" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-
-<img align="center" alt="Scikit Learn" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg">
-
-<img align="center" alt="Git" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-
-<img align="center" alt="Linux" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Python" height="40" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  
+  <img align="center" alt="Pandas" height="40" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  
+  <img align="center" alt="Numpy" height="40" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  
+  <img align="center" alt="Scikit Learn" height="40" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg">
+  
+  <img align="center" alt="Git" height="40" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  
+  <img align="center" alt="Linux" height="40" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 
 </div>
 
