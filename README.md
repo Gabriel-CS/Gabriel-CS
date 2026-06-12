@@ -32,7 +32,7 @@ class Gabriel:
 
 ---
 
-### **Stack Tecbnólogia**
+## **Stack Tecbnólogia**
 
 ![Python](https://img.shields.io/badge/Python-0d1b2a?style=for-the-badge&logo=python&logoColor=e2c97e)
 ![C](https://img.shields.io/badge/C-1a1a2e?style=for-the-badge&logo=c&logoColor=7eb8e2)
