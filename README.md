@@ -107,7 +107,7 @@ class Gabriel:
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/phelipee15/phelipee15/snake-output/snake.svg" alt="Snake animation"/>
+  ![Snake](https://raw.githubusercontent.com/Gabriel-CS/Gabriel-CS/snake-output/snake.svg)
 </div>
 
 ## **Contato**
