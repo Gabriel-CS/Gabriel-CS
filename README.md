@@ -15,7 +15,7 @@
 
 ---
 
-## `$ whoami`
+## SOBRE MIM
 
 ```python
 class Gabriel:
@@ -32,7 +32,7 @@ class Gabriel:
 
 ---
 
-## Stack Tecnológica
+## STACK TECNOLÓGIA 
 
 ![Python](https://img.shields.io/badge/Python-0d1b2a?style=for-the-badge&logo=python&logoColor=e2c97e)
 ![C](https://img.shields.io/badge/C-1a1a2e?style=for-the-badge&logo=c&logoColor=7eb8e2)
@@ -41,7 +41,7 @@ class Gabriel:
 
 ---
 
-## Projetos em Destaque
+## PROJETOS EM DESTAQUE
 
 <table>
   <thead>
@@ -77,7 +77,7 @@ class Gabriel:
 
 ---
 
-## Roadmap de Aprendizado
+## ROADMAP DE APRENDIZADO
 
 ```
 [✅] Machine Learning supervisionado e não supervisionado
@@ -90,7 +90,7 @@ class Gabriel:
 
 ---
 
-## GitHub Analytics
+## GITHUB ANALYTICS
 
 <div align="center">
 
@@ -106,20 +106,20 @@ class Gabriel:
 
 ---
 
-## Contato
+<div align="center">
+  <img src="https://raw.githubusercontent.com/phelipee15/phelipee15/snake-output/snake.svg" alt="Snake animation"/>
+</div>
+
+## CONTATO
 
 <div align="center">
 
 <a href="https://github.com/Gabriel-CS">
   <img src="https://img.shields.io/badge/GitHub-0d1b2a?style=for-the-badge&logo=github&logoColor=e2c97e"/>
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com/in/seu-linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=7eb8e2"/>
-</a>
-&nbsp;
-<a href="mailto:seu.email@exemplo.com">
-  <img src="https://img.shields.io/badge/Email-0d1b2a?style=for-the-badge&logo=gmail&logoColor=e2c97e"/>
 </a>
 
 <br/><br/>
