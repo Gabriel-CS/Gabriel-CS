@@ -15,7 +15,7 @@
 
 ---
 
-## SOBRE MIM
+## **Sobre mim**
 
 ```python
 class Gabriel:
@@ -32,7 +32,7 @@ class Gabriel:
 
 ---
 
-## STACK TECNOLÓGIA 
+### **Stack Tecbnólogia**
 
 ![Python](https://img.shields.io/badge/Python-0d1b2a?style=for-the-badge&logo=python&logoColor=e2c97e)
 ![C](https://img.shields.io/badge/C-1a1a2e?style=for-the-badge&logo=c&logoColor=7eb8e2)
@@ -41,7 +41,7 @@ class Gabriel:
 
 ---
 
-## PROJETOS EM DESTAQUE
+## **Projetos em destaque**
 
 <table>
   <thead>
@@ -77,7 +77,7 @@ class Gabriel:
 
 ---
 
-## ROADMAP DE APRENDIZADO
+## **Roadmap de Aprendizado**
 
 ```
 [✅] Machine Learning supervisionado e não supervisionado
@@ -90,7 +90,7 @@ class Gabriel:
 
 ---
 
-## GITHUB ANALYTICS
+## **GitHub Analytics**
 
 <div align="center">
 
@@ -110,7 +110,7 @@ class Gabriel:
   <img src="https://raw.githubusercontent.com/phelipee15/phelipee15/snake-output/snake.svg" alt="Snake animation"/>
 </div>
 
-## CONTATO
+## **Contato**
 
 <div align="center">
 
